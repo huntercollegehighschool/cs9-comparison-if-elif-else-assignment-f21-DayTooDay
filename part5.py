@@ -22,7 +22,7 @@ Enter a month:  Saturday
 not a month
 '''
 month = input("Enter a month: ")
-months_31 = ["january", "march", "may", "july", "august", "cctober", "december"]
+months_31 = ["january", "march", "may", "july", "august", "october", "december"]
 months_30 = ["april", "june", "september", "novmeber"]
 if month.lower() in months_31:
   print("31")
