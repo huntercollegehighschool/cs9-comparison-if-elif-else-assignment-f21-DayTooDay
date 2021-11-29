@@ -27,4 +27,4 @@ elif number_2 < number_1:
 if number_3 < smallest:
   smallest = number_3
   
-print("The smallest number is ", smallest)
+print("\nThe smallest number is ", smallest)
